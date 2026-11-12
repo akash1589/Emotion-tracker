@@ -1,2 +1,2 @@
-# Mood-tracker
-Helps me track my mood everyday 
+# Emotion-tracker
+Helps me track my emotions everyday 
